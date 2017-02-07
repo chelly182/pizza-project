@@ -7,3 +7,5 @@ My favorite pizza toppings are:
 * more cheese
 * even more cheese
 * mushrooms
+* green peppers
+* anchovies
